@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Andy Laique - Portfolio",
-  description: "Personal portfolio website for Andy Laique",
+  title: "Cynthia Ntirenganya - Portfolio",
+  description: "Personal portfolio website for Cynthia Ntirenganya",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
