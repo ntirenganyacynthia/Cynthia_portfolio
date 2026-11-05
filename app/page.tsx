@@ -177,8 +177,8 @@ export default function Home() {
         <div className="grid w-full items-center gap-14 md:grid-cols-2">
           <div>
             <p className="mb-4 font-semibold uppercase tracking-[0.2em] text-[#3B0764]">
-              Entry-level
-              <br></br> Software Developer
+              Junior
+              <br></br> Software Engineer
             </p>
 
             <h1 className="text-4xl font-bold leading-tight text-slate-900 sm:text-5xl lg:text-6xl">
@@ -260,7 +260,7 @@ export default function Home() {
 
           <div className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm md:p-10">
             <p className="text-lg leading-8 text-slate-600">
-              I am a junior software developer with experience working with
+              I am a junior software engineer with experience working with
               Python, JavaScript, React, Next.js, Dart, Flutter, HTML and CSS. I
               also have experience with mobile development, backend development,
               software testing and automation.
