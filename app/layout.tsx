@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Cynthia Ntirenganya - Portfolio",
   description: "Personal portfolio website for Cynthia Ntirenganya",
+  icons: [
+    { rel: "icon", type: "image/svg+xml", url: "/favicon.svg" },
+    { rel: "apple-touch-icon", url: "/icon.svg" },
+  ],
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
