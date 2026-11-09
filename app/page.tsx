@@ -125,7 +125,7 @@ export default function Home() {
               href="#contact"
               className="rounded-lg bg-white px-5 py-2 font-semibold text-[#3B0764] transition hover:bg-purple-50"
             >
-              Contact
+              Contact 
             </a>
           </div>
 
@@ -534,7 +534,7 @@ export default function Home() {
 
                 <div className="mt-6 flex flex-wrap gap-3">
                   <a
-                    href="https://she-dashboard-yvol.vercel.app/"
+                    href="https://she-dashboard-alpha.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 rounded-lg bg-[#3B0764] px-4 py-2 text-sm font-semibold text-white transition hover:bg-[#2D0052]"
@@ -609,7 +609,7 @@ export default function Home() {
                     ⚙️ View Live API
                   </a>
                   <a
-                    href="https://techsus-informational-website.vercel.app/"
+                    href="https://techsus-redu.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 rounded-lg border-2 border-purple-300 px-4 py-2 text-sm font-semibold text-[#3B0764] transition hover:bg-purple-50"
